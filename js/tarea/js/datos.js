@@ -1,3 +1,4 @@
+// datos de los estudiantes
 export const curso = "Diseño de Interfaces";
 
 export const estudiantes = [
